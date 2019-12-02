@@ -5,13 +5,13 @@ Origin: embedfire
 Label: main
 Suite: stable
 Codename: buster
-Date: Fri, 29 Nov 2019 11:59:23 UTC
+Date: Mon, 02 Dec 2019 13:40:37 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: embedfire repository for debian buster
 MD5Sum:
- 23475e0e22be74d718c84900635fca98 1173 main/binary-armhf/Packages
- 7294d83dd0afa9a13d41f665c9e82de3 639 main/binary-armhf/Packages.gz
+ cf5638c5e132fc299e15c30ef6403637 1173 main/binary-armhf/Packages
+ 935cd57a81475d8b1b0b4906aba1d048 639 main/binary-armhf/Packages.gz
  106e23558751f584cda06434909ae260 134 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-armhf/Packages
  7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-armhf/Packages.gz
@@ -29,8 +29,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
  6f03ed398f7023dc285067ec13951301 135 main/source/Release
 SHA1:
- 2bfd66a44448dbd3a895bd330c83b63880d6bb27 1173 main/binary-armhf/Packages
- 716f71da598f3799730cb0fdb7d3bea200a6396b 639 main/binary-armhf/Packages.gz
+ 94c01b5f922905505d5f92138c02823637988987 1173 main/binary-armhf/Packages
+ 476a7297e904b37c9033a250f8ef7e6212408431 639 main/binary-armhf/Packages.gz
  3b0dabb2f25d8a61eacd4ae2c32288c8e68b7014 134 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-armhf/Packages
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-armhf/Packages.gz
@@ -48,8 +48,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
  db54f75f74342d6abd5e37318a1eb32136e10265 135 main/source/Release
 SHA256:
- 40332d043f18962776d17909ecdbb687dba9458cc3c4bf158f961a17af0620c4 1173 main/binary-armhf/Packages
- fa8547efd6928d7d5e1f6f5ede0d801bc4dc7d9dcb84655a3175620c8f225cdc 639 main/binary-armhf/Packages.gz
+ fd35286d916fc0a4d481517c8dcb38f26bcf790f2c2dde6716ffaf0a1b01a6d7 1173 main/binary-armhf/Packages
+ f1f139afa7704078c0e14f6808f6f57e3a31d3209109397b9523b73c7f4984f5 639 main/binary-armhf/Packages.gz
  1c81bfb451a696aab35fde01e7836c7934c02b72365be7bd0149f4e6cf3a2ac0 134 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-armhf/Packages
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-armhf/Packages.gz
@@ -68,15 +68,15 @@ SHA256:
  da7f8d65ac445f77ad5c9f477c051793554fe5de7fc8cd83b7b0f4282021131f 135 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEyRbQt6YD88qtvvyOjALpIQQwJBsFAl3hCCEACgkQjALpIQQw
-JBs3AgwAj3o1HPyCVgaLqHSgJqXmhyh3GPJsUcxp+B1sGyk6tY4xQefZcl509m4g
-p1vItLIB8c/veF613/yMlc4A1fy1D3Pr/pbjOXj6ajcNAXSUQbyy/4eLMYGviF6e
-n6TMGT1efv22pc6DTQ4BZM7QBDorUpQLseuikCQrzuQ3CO7+9i8NLp0bkaShYU0G
-1wjwxC0lUGZG3mD//oQJqRlM3ANh+ZSq+BuBY2K98hdQxVLq4fenaCQ8s1pXHwAf
-ff8bagynj1Qqhl7i/b25hUYFEU8F52S1QtuGurx90S4EsFNLuEypTsu2kjYokyqz
-kmUTCpmhx/Y3JPqYIQEvRHq0r7ZRXjIxRX9dK28DvbTUlH+9eRqtGmOL+02ZVZT7
-vabSMREOyS/M9eDOxDAEeWOZzTyKGcdpbcUMBl0WiL5mBf/VMizU8ernCW5RV2t+
-r4w1OBVhhNeO5scjWg2hfA0tBaTTgxvIQu7YIFnqntZda6DMMHn8HrhFfjZWY3/+
-d9HEkcLS
-=/+QG
+iQGzBAEBCgAdFiEEyRbQt6YD88qtvvyOjALpIQQwJBsFAl3lFFYACgkQjALpIQQw
+JBsljAv+PiRt1qrJe06h7j2fQDWfz9Uz8k2AOYE+v+qUhQzfwBlfZA7KbtAiWMQ1
+OXzYQ133ea3/rvcdgUDXPUUqMVA1Ol0T13npxd5MI3LNQ3zftAtIvW7nYZUKJt8E
+EI7sRnxNL4WEbxEagTt7+tAYki1tw+ep9AhwnYrS+baeRWmDyG/g83LY+G3b71pp
+wiTKA/qqZsKDFyWt9Xq8xBUaUc3Gt6ipiD3rsoLpiT+u2LaEClSax24TRWASQGsH
+mxml3ZRhPIg6VhJuivG85KlScM5mOnbDifZrK5q4qsAFfkRPwuD1E8CfoLEHhDai
+40MJyPev5wJvvnJ1lwJrCduZRjthce/fnmJ4C/YpwE8vQ92rf0wzIu1A4kL2A3xk
+USqGR2TR2bz9Uoqt3eFcp/e006MIr+xzQav11d5A5gCB+W5kKcXTL2a0Q9lOnVj6
+mdmEkxgUuMLcBXllb0y46LEsbHmJG1cDktkfaHRbr7GVREcrSrzba3JFoOjHeQ0H
+bVXJamBI
+=qtUv
 -----END PGP SIGNATURE-----

@@ -6,10 +6,10 @@ Maintainer:YENING LAO <1337849843@qq.com>
 Priority: optional
 Section: debug
 Filename: pool/main/e/embedfire/kobs-ng-for-imx6ull_0.1.1_armhf.deb
-Size: 176524
-SHA256: 5e9a4b91262d381c372992ffcc663c37696db453720982f54d94da9153ca8a81
-SHA1: da64883186cdd74da1915f4b87ff896efb54c3cf
-MD5sum: 4decc7f715c777d87add53492a50230d
+Size: 176444
+SHA256: 60b812c3a8409a41ad51272de72b60a6f5c246e63d6735f0f3f60fef0023dc4e
+SHA1: 92dfd4a0d2aef2310261220b39bf62b70e0b5da9
+MD5sum: 1b2d26308467212a6803c3a47b9048ec
 Description:NandFlash Tools
 
 Package: linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty
