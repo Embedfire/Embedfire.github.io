@@ -1,0 +1,32 @@
+Package: kobs-ng-for-imx6ull
+Source:embedfire
+Version:0.1.1
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/kobs-ng-for-imx6ull_0.1.1_armhf.deb
+Size: 176524
+SHA256: 5e9a4b91262d381c372992ffcc663c37696db453720982f54d94da9153ca8a81
+SHA1: da64883186cdd74da1915f4b87ff896efb54c3cf
+MD5sum: 4decc7f715c777d87add53492a50230d
+Description:NandFlash Tools
+
+Package: linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: root <root@embedfire_dev.lan>
+Installed-Size: 53873
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty_1stable_armhf.deb
+Size: 9327144
+SHA256: ac5aebe8cdb36a29d2c4c200745076670bc3c1dd8cbb27fd6997dd5ae34120e9
+SHA1: c52931e04e2d78b0274735ba773904e34da3f776
+MD5sum: e1db6a0b95da1aa120f5efb088c8316c
+Description: Linux kernel, version 4.19.71-imx-r1-12530-gb03e87041537-dirty
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.71-imx-r1-12530-gb03e87041537-dirty.
+
