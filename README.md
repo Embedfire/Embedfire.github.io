@@ -7,7 +7,7 @@
 ### Add repository
 
 ```
-# For imax6ull
+# For imx6ull
 echo "deb https://github.com/Embdefire/Embedfire.githup.io/tree/master/aptbuster main| sudo tee -a /etc/apt/sources.list
 ```
 
