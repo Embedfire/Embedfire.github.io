@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: embedfire
-Label: main
-Architecture: amd64
-Description: embedfire repository for debian buster

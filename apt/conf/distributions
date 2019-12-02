@@ -1,9 +1,0 @@
-Origin: embedfire
-Label: main
-Codename: buster
-Suite: stable
-Components: main
-UDebComponents: main
-Architectures: armhf arm64  amd64 source
-Description: embedfire repository for debian buster
-SignWith: yes
