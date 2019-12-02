@@ -7,8 +7,8 @@
 ### Add repository
 
 ```
-# For imax6ull
-echo "deb https://github.com/Embdefire/Embedfire.githup.io/tree/master/aptbuster main| sudo tee -a /etc/apt/sources.list
+# For imx6ull
+echo "deb https://github.com/Embdefire/Embedfire.githup.io/tree/master/apt buster main| sudo tee -a /etc/apt/sources.list
 ```
 
 ### Add public GPG key
