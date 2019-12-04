@@ -8,12 +8,12 @@
 
 ```
 # For imx6ull
-echo "deb https://github.com/Embdefire/Embedfire.githup.io/tree/master/apt buster main" | sudo tee -a /etc/apt/sources.list
+echo "deb https://embdefire.github.io buster main" | sudo tee -a /etc/apt/sources.list
 ```
 
 ### Add public GPG key
 
 ```
-curl https://github.com/Embdefire/Embedfire.githup.io/tree/master/apt/keydeb.gpg.key | sudo apt-key add -
+curl https://embdefire.github.io//key/deb.gpg.key | sudo apt-key add -
 ```
 
