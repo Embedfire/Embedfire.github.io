@@ -1,3 +1,17 @@
+Package: fire-config
+Source:embedfire
+Version:0.1.1
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/fire-config_0.1.1_armhf.deb
+Size: 502264
+SHA256: 1847bc27356d93eb9fb366ae88a2642ca1f11b01da48efac4093dac03be741b6
+SHA1: 4229f05a70c457ca5ff9c32ca9a941154a499f05
+MD5sum: f00628d8c2369f4543504d7a87158f81
+Description:NandFlash Tools
+
 Package: kobs-ng-for-imx6ull
 Source:embedfire
 Version:0.1.1
