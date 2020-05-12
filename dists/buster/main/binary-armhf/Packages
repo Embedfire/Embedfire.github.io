@@ -1,16 +1,44 @@
-Package: fire-config
+Package: devscan
 Source:embedfire
 Version:0.1.1
 Architecture: armhf
 Maintainer:YENING LAO <1337849843@qq.com>
 Priority: optional
 Section: debug
-Filename: pool/main/e/embedfire/fire-config_0.1.1_armhf.deb
-Size: 502264
-SHA256: 1847bc27356d93eb9fb366ae88a2642ca1f11b01da48efac4093dac03be741b6
-SHA1: 4229f05a70c457ca5ff9c32ca9a941154a499f05
-MD5sum: f00628d8c2369f4543504d7a87158f81
+Filename: pool/main/e/embedfire/devscan_0.1.1_armhf.deb
+Size: 806104
+SHA256: e2d64aa70951a10c9e6c2aae9f458dae41b8945c069d8d9290e2f1d09d66371e
+SHA1: 5d7e6ab776cdfe9eb8616bdf812aa17e0973f69b
+MD5sum: 578864b0655af344254bd032937206d3
 Description:NandFlash Tools
+
+Package: ebf-modules
+Source:embedfire
+Version:0.1.1
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/ebf-modules_0.1.1_armhf.deb
+Size: 46840
+SHA256: 427e2c774a4a38fcb2d77d5e172cbca4645c10b076e991ad24d981686b4abbd3
+SHA1: 59319b6aaff0a5fbc2e017959c1bf13b57f2e95f
+MD5sum: 143824f556de875666fafbea2e9f332e
+Description:NandFlash Tools
+
+Package: fire-config
+Source:embedfire
+Version:0.1.12
+Architecture: armhf
+Maintainer:Emdebfire
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/fire-config_0.1.12_armhf.deb
+Size: 656832
+SHA256: fab18194c9461d04cf9519c9bc13ec9083f83802b0e592db931b94e68194ac81
+SHA1: c5c856b947f0d18e8775af85fd3281733130e05a
+MD5sum: 3d6d57bfa8b0cf2fb4fd3676d7690aa4
+Description: Embedfire Tools
 
 Package: kobs-ng-for-imx6ull
 Source:embedfire
@@ -43,4 +71,32 @@ MD5sum: e1db6a0b95da1aa120f5efb088c8316c
 Description: Linux kernel, version 4.19.71-imx-r1-12530-gb03e87041537-dirty
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.71-imx-r1-12530-gb03e87041537-dirty.
+
+Package: peripheral
+Source:embedfire
+Version:0.1.4
+Architecture: armhf
+Maintainer:Emdebfire
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/peripheral_0.1.4_armhf.deb
+Size: 182256
+SHA256: 06d9b86d43cd6bd1f6eabf98ded21f3f739de3eff8788f6327f7fc0743cfd845
+SHA1: d3e2d9d5bddb70f4ce0651796be7b1826b93bd2c
+MD5sum: e6e3de1c4107158955c8813546cfd283
+Description: Embedfire Tools
+
+Package: wifi-depent
+Source:embedfire
+Version:0.1.1
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/wifi-depent_0.1.1_armhf.deb
+Size: 981628
+SHA256: 1f6214aaf7997a57d38c06cf21d4097c2be96d35579fc0a41d9804d6ab1376f7
+SHA1: eefc1d37a31282322fb22485ba778a5b9702f5ef
+MD5sum: 9a64cf5f5303fd08cf1a282a9ca9d66b
+Description:NandFlash Tools
 
