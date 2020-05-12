@@ -1,3 +1,18 @@
+Package: asound
+Source:embedfire
+Version:0.1.1
+Depends: ebf-modules, alsa-utils, libasound2
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/asound_0.1.1_armhf.deb
+Size: 3288
+SHA256: 655df60d6897ada785b74919c7e17f35ca02ec8fda31f859b71e968e1650da42
+SHA1: e8be35ab2b1f6f898a4848410c964d5f74ecc3b3
+MD5sum: df90b125e2524c3cb363f33ca28952d8
+Description:NandFlash Tools
+
 Package: devscan
 Source:embedfire
 Version:0.1.1
@@ -12,6 +27,51 @@ SHA1: 5d7e6ab776cdfe9eb8616bdf812aa17e0973f69b
 MD5sum: 578864b0655af344254bd032937206d3
 Description:NandFlash Tools
 
+Package: ebf-build
+Source:embedfire
+Version:0.1.1
+Depends: alsa-utils, libasound2
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/ebf-build_0.1.1_armhf.deb
+Size: 40556
+SHA256: 4be46007319d8bd41080dcf0b317fcaa712a1a12e127125699e8bfc15263864d
+SHA1: 8e55b5f86f45c95e66892fcaef59b419038c5618
+MD5sum: 877bbc6b72e3f5bba902f3b0c31fb6ee
+Description:NandFlash Tools
+
+Package: ebf-fonts
+Source:embedfire
+Version:0.1.1
+Depends: 
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/ebf-fonts_0.1.1_armhf.deb
+Size: 12042660
+SHA256: 5f8308d17bec684b70b7d473480c88fbb9569a8fdc958e70c543c61b9acc25db
+SHA1: 6f5534cd70727b25b19cb7c64b4f0bdcc1fc9766
+MD5sum: 13286df7c066fb7b653f2f9d78d7de3e
+Description:NandFlash Tools
+
+Package: ebf-gpiod
+Source:embedfire
+Version:0.1.1
+Depends: python3-dev, libgpiod-dev, autoconf-archive, python3-pip, python3-setuptools, pkg-config, libtool
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/ebf-gpiod_0.1.1_armhf.deb
+Size: 53748
+SHA256: 60d4429b5276923801f26fdf52e5c5d49c429a6c179616c3bd9c08fcd2b4aba5
+SHA1: f7fc425efd6b05877421cf675b9d0826d75e1709
+MD5sum: e67428634c2252e3ce16673fea06c638
+Description:NandFlash Tools
+
 Package: ebf-modules
 Source:embedfire
 Version:0.1.1
@@ -24,6 +84,21 @@ Size: 46840
 SHA256: 427e2c774a4a38fcb2d77d5e172cbca4645c10b076e991ad24d981686b4abbd3
 SHA1: 59319b6aaff0a5fbc2e017959c1bf13b57f2e95f
 MD5sum: 143824f556de875666fafbea2e9f332e
+Description:NandFlash Tools
+
+Package: ebf-tslibplugin
+Source:embedfire
+Version:0.1.1
+Depends: 
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/ebf-tslibplugin_0.1.1_armhf.deb
+Size: 5712
+SHA256: a9a1d96ea3a750efad31c4dc34e5362fc2dbb3193ff99b9888ea10fac32bcc36
+SHA1: 5062391dcd2f279e54f05ba870eb0d11d3b4e7b1
+MD5sum: cbb857542f15d534f2f5227f4682c844
 Description:NandFlash Tools
 
 Package: fire-config
@@ -84,6 +159,54 @@ Size: 182256
 SHA256: 06d9b86d43cd6bd1f6eabf98ded21f3f739de3eff8788f6327f7fc0743cfd845
 SHA1: d3e2d9d5bddb70f4ce0651796be7b1826b93bd2c
 MD5sum: e6e3de1c4107158955c8813546cfd283
+Description: Embedfire Tools
+
+Package: qt-app
+Source:embedfire
+Version:0.1.2
+Depends: devscan, ebf-tslibplugin, libts-bin, alsa-utils, libasound2, libqt5widgets5, libqt5gui5, libqt5dbus5, libatomic1, libpulse-mainloop-glib0, 
+         libpulse0, ebf-fonts, libqt5multimediawidgets5, libqt5multimedia5, libqt5multimedia5-plugins, gstreamer1.0-plugins-base, gstreamer1.0-tools, 
+         libicu63, gstreamer1.0-alsa, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-good, gstreamer1.0-alsa, gstreamer1.0-libav, alsa-utils, libasound2
+Architecture: armhf
+Maintainer:Emdebfire
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/qt-app_0.1.2_armhf.deb
+Size: 40720872
+SHA256: 7ba18c9f3837bc3678a4c4682fce1124304d58f4d7be6a437af723502e0ba373
+SHA1: b5b66e132e8f589ef9a7d68e3fa4d99492d25766
+MD5sum: 8cf21ca11770b3ebb16dd708bbd374f0
+Description: Embedfire Tools
+
+Package: qt-app-build
+Source:embedfire
+Version:0.1.1
+Depends: devscan, libts-bin, alsa-utils, libasound2, libqt5widgets5, libqt5gui5, libqt5dbus5, libpng16-16, libatomic1, libpulse-mainloop-glib0, 
+         libpulse0, libqt5multimediawidgets5, libqt5multimedia5, libqt5multimedia5-plugins, gstreamer1.0-plugins-base, gstreamer1.0-tools, 
+         libicu63, gstreamer1.0-alsa, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-good, gstreamer1.0-alsa, gstreamer1.0-libav, ebf-build
+Architecture: armhf
+Maintainer:YENING LAO <1337849843@qq.com>
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/qt-app-build_0.1.1_armhf.deb
+Size: 65123756
+SHA256: 66cf75c8858fd992e252032d0270b7c6b88f2a1be7d28f30af0180e1ccc3cc48
+SHA1: 64b49ef55a9664b6405718639a22cf7d97c81f00
+MD5sum: 4669dbf4dde597c79a571fcd9885da1b
+Description:NandFlash Tools
+
+Package: qt-app-static-build
+Source:embedfire
+Version:0.1.2
+Architecture: armhf
+Maintainer:Emdebfire
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/qt-app-static-build_0.1.2_armhf.deb
+Size: 62741916
+SHA256: bb60557d6d091320c22d77d5e5d8da704b03a706afbbf458d1c1ef1ea5873b78
+SHA1: 24bf4eb2aa85a06c9b89424d385f98013d7cabeb
+MD5sum: 6ebd7ba28e2cfc76198280326377536e
 Description: Embedfire Tools
 
 Package: wifi-depent
