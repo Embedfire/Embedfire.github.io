@@ -134,15 +134,15 @@ Source: linux-upstream
 Version: 1stable
 Architecture: armhf
 Maintainer: root <root@ebf-dev>
-Installed-Size: 54316
+Installed-Size: 34443
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
 Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1_1stable_armhf.deb
-Size: 9742420
-SHA256: 31dfa91cb62ef880f7ab36ec854ae848652e93bcc2cb85e394c32715984ae7a6
-SHA1: ddfe42a9cfb3d5b9b4b4de8cc0467bd3c541f9fa
-MD5sum: 74be4536d6c87ebda667952413600f81
+Size: 9181536
+SHA256: 15c565b634e1a24c24373d4e139b75422538ff2b0c9e6780426e68fa834ae49d
+SHA1: 7019b8bdabb51480c7528175cdad07b6179c1878
+MD5sum: d6ec53f94e58bbea7051dc596d9d6c2f
 Description: Linux kernel, version 4.19.71-imx-r1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.71-imx-r1.
