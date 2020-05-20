@@ -230,16 +230,17 @@ Description:NandFlash Tools
 
 Package: qt-app-static-build
 Source:embedfire
-Version:0.1.2
+Version:0.1.3
+Depends: devscan, libts-bin, libpng16-16, libatomic1, libasound2
 Architecture: armhf
 Maintainer:Emdebfire
 Priority: optional
 Section: debug
-Filename: pool/main/e/embedfire/qt-app-static-build_0.1.2_armhf.deb
-Size: 62741916
-SHA256: bb60557d6d091320c22d77d5e5d8da704b03a706afbbf458d1c1ef1ea5873b78
-SHA1: 24bf4eb2aa85a06c9b89424d385f98013d7cabeb
-MD5sum: 6ebd7ba28e2cfc76198280326377536e
+Filename: pool/main/e/embedfire/qt-app-static-build_0.1.3_armhf.deb
+Size: 62748340
+SHA256: 475645d833299c135b066dd57b7a3226247310fba0c1e7f39c5e0ddf45b7c89f
+SHA1: cd79e122b067a1395205efc5ff906ea999888397
+MD5sum: e93d61bbde4ab8ce65f0aa15ce28264a
 Description: Embedfire Tools
 
 Package: wifi-depent
