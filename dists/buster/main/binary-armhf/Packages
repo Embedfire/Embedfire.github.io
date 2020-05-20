@@ -129,24 +129,6 @@ SHA1: 92dfd4a0d2aef2310261220b39bf62b70e0b5da9
 MD5sum: 1b2d26308467212a6803c3a47b9048ec
 Description:NandFlash Tools
 
-Package: linux-image-4.19.71-imx-r1
-Source: linux-upstream
-Version: 1stable
-Architecture: armhf
-Maintainer: root <root@ebf-dev>
-Installed-Size: 34443
-Homepage: http://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1_1stable_armhf.deb
-Size: 9181536
-SHA256: 15c565b634e1a24c24373d4e139b75422538ff2b0c9e6780426e68fa834ae49d
-SHA1: 7019b8bdabb51480c7528175cdad07b6179c1878
-MD5sum: d6ec53f94e58bbea7051dc596d9d6c2f
-Description: Linux kernel, version 4.19.71-imx-r1
- This package contains the Linux kernel, modules and corresponding other
- files, version: 4.19.71-imx-r1.
-
 Package: linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty
 Source: linux-upstream
 Version: 1stable
