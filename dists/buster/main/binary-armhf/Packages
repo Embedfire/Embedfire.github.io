@@ -103,16 +103,16 @@ Description:NandFlash Tools
 
 Package: fire-config
 Source:embedfire
-Version:0.1.12
+Version:0.1.14
 Architecture: armhf
 Maintainer:Emdebfire
 Priority: optional
 Section: debug
-Filename: pool/main/e/embedfire/fire-config_0.1.12_armhf.deb
-Size: 656832
-SHA256: fab18194c9461d04cf9519c9bc13ec9083f83802b0e592db931b94e68194ac81
-SHA1: c5c856b947f0d18e8775af85fd3281733130e05a
-MD5sum: 3d6d57bfa8b0cf2fb4fd3676d7690aa4
+Filename: pool/main/e/embedfire/fire-config_0.1.14_armhf.deb
+Size: 656556
+SHA256: 6d5cb7da8df32d7b49172bcc852da5c0b639d8ab2ebdaf9d1e05eca8997100df
+SHA1: a60683e6814f259c01e54c1f8302fa482f469fe0
+MD5sum: ccb4e494912685e6979523c69d6df07e
 Description: Embedfire Tools
 
 Package: kobs-ng-for-imx6ull
