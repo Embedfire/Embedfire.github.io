@@ -172,10 +172,10 @@ Maintainer:Emdebfire
 Priority: optional
 Section: debug
 Filename: pool/main/e/embedfire/qt-app_0.1.2_armhf.deb
-Size: 40720872
-SHA256: 7ba18c9f3837bc3678a4c4682fce1124304d58f4d7be6a437af723502e0ba373
-SHA1: b5b66e132e8f589ef9a7d68e3fa4d99492d25766
-MD5sum: 8cf21ca11770b3ebb16dd708bbd374f0
+Size: 40716464
+SHA256: 53c4b9d3bb488a4106632292550f1ce6a8d8e54045ccbe2b008086a975c7ef74
+SHA1: 302f4e361ce654d71cbde8da8896537802f31686
+MD5sum: cbadc53d177e11e5d4b96a774ab37767
 Description: Embedfire Tools
 
 Package: qt-app-build
