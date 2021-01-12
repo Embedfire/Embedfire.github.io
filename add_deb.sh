@@ -4,13 +4,9 @@ usage () {
 	echo "usage: ./add_deb.sh buster/carp-imx6 xxx.deb"
 }
 
-while [ ! -z "$1" ] ; do
-	case $1 in
-	-h|--help)
-		usage
-		exit
-		;;
-	esac
-done
+if [ "$1" = "--help" ] ; then
+	usage
+	exit
+fi
 
 reprepro --ask-passphrase -Vb . includedeb $1 $2
