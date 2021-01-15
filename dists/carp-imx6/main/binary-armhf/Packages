@@ -1,16 +1,16 @@
 Package: ebf-qtdemo
-Version: 1.3.0.3
+Version: 1.3.0.4
 Architecture: armhf
 Depends:devscan,libts-bin,alsa-utils
 Installed-Size: 512
 Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
-Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.3_armhf.deb
-Size: 78318020
-SHA256: 6cca460d130127fe9ff5fd2ce4cabee3d784e249f1ce650cb2754b2f1625c619
-SHA1: 6ad55b6194adaa5025a1748914876a93274c244d
-MD5sum: 2f62aca277c9de511d5b508b5da04ddb
+Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.4_armhf.deb
+Size: 78321308
+SHA256: 77eb12fe25593068c25ef473b102e6e4a39e8a3113a6fd2d805dae6ff6084adf
+SHA1: 0a6e9b664fe15bb54e301b89d25202fa0763ef6a
+MD5sum: 6223602713e5440d34cca481a93a68fe
 Description: soft package
 
 Package: fire-config-v2
