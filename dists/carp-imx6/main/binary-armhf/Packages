@@ -37,10 +37,10 @@ Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
 Filename: pool/main/l/linux-4.19.35-imx6/linux-image-4.19.35-imx6_2.1LubanCat_armhf.deb
-Size: 11302440
-SHA256: b3822f14e7fb9ee9a92607474f102a3667b30a375292ef905c96466a8f087a59
-SHA1: 8343ce806feb7056b93b266edca898853de91124
-MD5sum: 2444c2298f3339bda1b24e5619b1adfd
+Size: 11302956
+SHA256: a2821f3d0f8e8ba8d433b518498fb7bfc31b4b07cdb9f234a5141662e5f2d012
+SHA1: f65480f79b5c0a243f2afa7b0898084d466954a8
+MD5sum: 208cb4a8c26f1f5012c2a212b51f49bd
 Description: Linux kernel, version 4.19.35-imx6
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.35-imx6.
