@@ -21,26 +21,26 @@ Maintainer:Emdebfire
 Priority: optional
 Section: debug
 Filename: pool/main/e/embedfire/fire-config-v2_0.1.3_armhf.deb
-Size: 1722544
-SHA256: f31bbbed02f646687c98eb5cbd2400c3221a44682e68f5f8e7f1c40571360945
-SHA1: 377679dd4e654e67251d085252d6c218113b814a
-MD5sum: 08b1caad5b03a3c73f0214b8c71bef2f
+Size: 1722604
+SHA256: 19fce81b3562fa3b9d652cbd971ea544a00d2ec30488f76a31b1df2c51439815
+SHA1: c7200b79b68b0f8ca1ce4dbf4a925f58a412ccfc
+MD5sum: d17a61a0f5e51a4949c73a200fd50acd
 Description: Embedfire Tools
 
 Package: linux-image-4.19.35-imx6
 Source: linux-4.19.35-imx6
-Version: 2.1LubanCat
+Version: 2.2LubanCat
 Architecture: armhf
 Maintainer: yening <yening@ebf-dev>
 Installed-Size: 39178
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-4.19.35-imx6/linux-image-4.19.35-imx6_2.1LubanCat_armhf.deb
-Size: 11302956
-SHA256: a2821f3d0f8e8ba8d433b518498fb7bfc31b4b07cdb9f234a5141662e5f2d012
-SHA1: f65480f79b5c0a243f2afa7b0898084d466954a8
-MD5sum: 208cb4a8c26f1f5012c2a212b51f49bd
+Filename: pool/main/l/linux-4.19.35-imx6/linux-image-4.19.35-imx6_2.2LubanCat_armhf.deb
+Size: 11302908
+SHA256: c3836d30ff02f2a851eb4b675b0af9453a50b63e29967c03c3435fc7a275670a
+SHA1: 9e7b0a722932c6fa642ca24bf79c153bc4f9ddfd
+MD5sum: 5a862b1351acf7e1fdfa1f949f413a87
 Description: Linux kernel, version 4.19.35-imx6
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.35-imx6.
