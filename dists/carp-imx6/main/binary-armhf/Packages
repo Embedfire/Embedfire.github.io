@@ -27,21 +27,3 @@ SHA1: c7200b79b68b0f8ca1ce4dbf4a925f58a412ccfc
 MD5sum: d17a61a0f5e51a4949c73a200fd50acd
 Description: Embedfire Tools
 
-Package: linux-image-4.19.35-imx6
-Source: linux-4.19.35-imx6
-Version: 2.2LubanCat
-Architecture: armhf
-Maintainer: yening <yening@ebf-dev>
-Installed-Size: 39178
-Homepage: http://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-4.19.35-imx6/linux-image-4.19.35-imx6_2.2LubanCat_armhf.deb
-Size: 11302908
-SHA256: c3836d30ff02f2a851eb4b675b0af9453a50b63e29967c03c3435fc7a275670a
-SHA1: 9e7b0a722932c6fa642ca24bf79c153bc4f9ddfd
-MD5sum: 5a862b1351acf7e1fdfa1f949f413a87
-Description: Linux kernel, version 4.19.35-imx6
- This package contains the Linux kernel, modules and corresponding other
- files, version: 4.19.35-imx6.
-
