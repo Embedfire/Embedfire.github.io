@@ -180,24 +180,6 @@ Description: JasPer JPEG-2000 runtime library
  .
  This package contains the shared library.
 
-Package: linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty
-Source: linux-upstream
-Version: 1stable
-Architecture: armhf
-Maintainer: root <root@embedfire_dev.lan>
-Installed-Size: 53873
-Homepage: http://www.kernel.org/
-Priority: optional
-Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1-12530-gb03e87041537-dirty_1stable_armhf.deb
-Size: 9327144
-SHA256: ac5aebe8cdb36a29d2c4c200745076670bc3c1dd8cbb27fd6997dd5ae34120e9
-SHA1: c52931e04e2d78b0274735ba773904e34da3f776
-MD5sum: e1db6a0b95da1aa120f5efb088c8316c
-Description: Linux kernel, version 4.19.71-imx-r1-12530-gb03e87041537-dirty
- This package contains the Linux kernel, modules and corresponding other
- files, version: 4.19.71-imx-r1-12530-gb03e87041537-dirty.
-
 Package: peripheral
 Source:embedfire
 Version:0.1.4
