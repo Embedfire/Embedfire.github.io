@@ -15,15 +15,15 @@ Description: soft package
 
 Package: fire-config-v2
 Source:embedfire
-Version:0.1.3
+Version:0.1.4
 Architecture: armhf
 Maintainer:Emdebfire 
 Priority: optional
 Section: debug
-Filename: pool/main/e/embedfire/fire-config-v2_0.1.3_armhf.deb
-Size: 1722604
-SHA256: 19fce81b3562fa3b9d652cbd971ea544a00d2ec30488f76a31b1df2c51439815
-SHA1: c7200b79b68b0f8ca1ce4dbf4a925f58a412ccfc
-MD5sum: d17a61a0f5e51a4949c73a200fd50acd
+Filename: pool/main/e/embedfire/fire-config-v2_0.1.4_armhf.deb
+Size: 1582516
+SHA256: 437d62603594a65247dec716d1422adf8dba96f07382bc91417607d49c432d4a
+SHA1: c795660f88c99e07e4cbf98fe22b9568ff0052d2
+MD5sum: 3f53546285b30e32dd4f5c5f6e7ff5a8
 Description: Embedfire Tools
 
