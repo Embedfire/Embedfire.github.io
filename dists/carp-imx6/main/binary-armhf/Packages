@@ -1,3 +1,18 @@
+Package: ebf-157-qtdemo
+Version: 1.0.0.0
+Architecture: armhf
+Depends:devscan,libts-bin,alsa-utils,qt5-default,libqt5multimedia5,libqt5multimedia5-plugins,gstreamer1.0-plugins-base,gstreamer1.0-tools,gstreamer1.0-plugins-bad,gstreamer1.0-plugins-good,gstreamer1.0-alsa,gstreamer1.0-libav
+Installed-Size: 512
+Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
+Priority: optional
+Section: utils
+Filename: pool/main/e/ebf-157-qtdemo/ebf-157-qtdemo_1.0.0.0_armhf.deb
+Size: 38235572
+SHA256: 73e89fb44598a0fdcd34418bb538dbb3cdef9547f61d90c2a9b87620bcf4265d
+SHA1: 9bba16ef82b946c88fefb57ea86a0fa848b4761b
+MD5sum: 7d15dbc8d51401ca567ba7c2fa35f0e2
+Description: soft package
+
 Package: ebf-qtdemo
 Version: 1.3.0.5
 Architecture: armhf
