@@ -14,18 +14,18 @@ MD5sum: 13a9fc88f0b6b4d78b7683b6b013d5cb
 Description: soft package
 
 Package: ebf-qtdemo
-Version: 1.3.0.6
+Version: 1.3.0.7
 Architecture: armhf
 Depends:devscan,libts-bin,alsa-utils
 Installed-Size: 512
 Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
-Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.6_armhf.deb
-Size: 78312584
-SHA256: 3fae23f007e727b3233f61857f6725a070e73ae3f3538edb8c206011b54ef94e
-SHA1: 399290e88c0ca64072750eb187fdca46529dce97
-MD5sum: 0d9c4b453433335b4085b5929e2fa70a
+Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.7_armhf.deb
+Size: 78307700
+SHA256: edc0c7c7b7821dd4a825df38cc5a8c11bf1d34a80ab37221b7342fa06b507a30
+SHA1: 4a0d254d65f17d80f3ed69ca8189b75285c047f3
+MD5sum: 72352d104e2010b49b844166fe154011
 Description: soft package
 
 Package: fire-config-v2
