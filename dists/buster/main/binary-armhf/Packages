@@ -266,9 +266,9 @@ Maintainer:YENING LAO <1337849843@qq.com>
 Priority: optional
 Section: debug
 Filename: pool/main/e/embedfire/wifi-depent_0.1.1_armhf.deb
-Size: 981628
-SHA256: 1f6214aaf7997a57d38c06cf21d4097c2be96d35579fc0a41d9804d6ab1376f7
-SHA1: eefc1d37a31282322fb22485ba778a5b9702f5ef
-MD5sum: 9a64cf5f5303fd08cf1a282a9ca9d66b
+Size: 1145508
+SHA256: 84867b60987f872f59f9e34caa405ad0a93f7166314e9e048d1470a9d5166a3c
+SHA1: e3f51a9667045d100661fe369adb89f2296dbdb7
+MD5sum: c5c2a978c5c5074f89296fa15e5f9f8c
 Description:NandFlash Tools
 
