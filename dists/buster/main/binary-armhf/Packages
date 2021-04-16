@@ -258,17 +258,3 @@ SHA1: cd79e122b067a1395205efc5ff906ea999888397
 MD5sum: e93d61bbde4ab8ce65f0aa15ce28264a
 Description: Embedfire Tools
 
-Package: wifi-depent
-Source:embedfire
-Version:0.1.1
-Architecture: armhf
-Maintainer:YENING LAO <1337849843@qq.com>
-Priority: optional
-Section: debug
-Filename: pool/main/e/embedfire/wifi-depent_0.1.1_armhf.deb
-Size: 1145508
-SHA256: 84867b60987f872f59f9e34caa405ad0a93f7166314e9e048d1470a9d5166a3c
-SHA1: e3f51a9667045d100661fe369adb89f2296dbdb7
-MD5sum: c5c2a978c5c5074f89296fa15e5f9f8c
-Description:NandFlash Tools
-
