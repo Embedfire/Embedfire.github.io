@@ -7,10 +7,10 @@ Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
 Filename: pool/main/e/ebf-157-qtdemo/ebf-157-qtdemo_1.0.0.0_armhf.deb
-Size: 38230832
-SHA256: 78e794a26f79d4169cdcdca5ae85ee7158f99a705ab7ea45494579091e04c442
-SHA1: 18917f4caeb72a3082847f0cd4fa605ac01f6d4e
-MD5sum: 13a9fc88f0b6b4d78b7683b6b013d5cb
+Size: 38281440
+SHA256: d58e6831f89e9f5c7d7d84974028a41fbf31cd4bbb270cef2a859de0f71171ef
+SHA1: 2f3565d469d22855ecd115f4705effeeb28664d8
+MD5sum: dd3651127acad8d3522785e76eaa7ca7
 Description: soft package
 
 Package: ebf-qtdemo
