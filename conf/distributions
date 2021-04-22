@@ -18,3 +18,13 @@ UDebComponents: main
 Architectures: armhf arm64  amd64 source
 Description: embedfire repository for debian buster
 SignWith: yes
+
+Origin: embedfire
+Label: main
+Codename: carp-stm32-mp157
+Suite: stable
+Components: main
+UDebComponents: main
+Architectures: armhf arm64  amd64 source
+Description: embedfire repository for debian buster
+SignWith: yes
