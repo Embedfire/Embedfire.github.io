@@ -13,19 +13,34 @@ SHA1: 2f3565d469d22855ecd115f4705effeeb28664d8
 MD5sum: dd3651127acad8d3522785e76eaa7ca7
 Description: soft package
 
+Package: ebf-gst
+Version: 1.0.0.0
+Architecture: armhf
+Depends:
+Installed-Size: 512
+Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
+Priority: optional
+Section: utils
+Filename: pool/main/e/ebf-gst/ebf-gst_1.0.0.0_armhf.deb
+Size: 9149092
+SHA256: b27eb25d11bf02bb26c62d1071674b0c5f86fec31cb38a486800df20eedcd66f
+SHA1: c062cc76bb6edeb83f2c373a087e11a74bee8219
+MD5sum: 72b9c2f03eb0f6c2a62793e9c6e0008c
+Description: soft package
+
 Package: ebf-qtdemo
-Version: 1.3.0.7
+Version: 1.3.0.8
 Architecture: armhf
 Depends:devscan,libts-bin,alsa-utils
 Installed-Size: 512
 Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
-Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.7_armhf.deb
-Size: 78307700
-SHA256: edc0c7c7b7821dd4a825df38cc5a8c11bf1d34a80ab37221b7342fa06b507a30
-SHA1: 4a0d254d65f17d80f3ed69ca8189b75285c047f3
-MD5sum: 72352d104e2010b49b844166fe154011
+Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.8_armhf.deb
+Size: 69162832
+SHA256: 76d8151f91ff48fd23af3e0c0df1fdb9207d2927baef244366a1938810875130
+SHA1: f62f1732c348ba0bf4d377338b766df7784ad3a4
+MD5sum: 9c9f67aef357b3eff604360f7768417a
 Description: soft package
 
 Package: fire-config-v2
