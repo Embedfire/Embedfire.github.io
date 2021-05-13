@@ -1,6 +1,0 @@
-Archive: stable
-Component: main
-Origin: embedfire
-Label: main
-Architecture: armhf
-Description: embedfire repository for debian buster
