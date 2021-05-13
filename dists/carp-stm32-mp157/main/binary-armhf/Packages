@@ -7,10 +7,10 @@ Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
 Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.0.0.1_armhf.deb
-Size: 38360996
-SHA256: 5dde2d37d58c97b4ac2c18c13838762aa7b4dc12c689939ddf315ec4e41ea038
-SHA1: 0be1362d92b48f36298d0cd0a8befb822f05fd70
-MD5sum: e14f0dbd2a578b0795d79f8020a6715a
+Size: 38355232
+SHA256: 17bbf5f2afad7d4d349342295e587b549584e9e1ab92835473ae4b8412706bf7
+SHA1: a05980378f5f61d46b5cec80e9b5400e4eb22ee0
+MD5sum: e03ab0fc9002bc328de538f22ebf52b1
 Description: soft package
 
 Package: wifi-depent
