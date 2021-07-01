@@ -1,16 +1,16 @@
 Package: ebf-qtdemo
-Version: 1.0.0.1
+Version: 1.0.0.2
 Architecture: armhf
-Depends:devscan,libts-bin,alsa-utils,qt5-default,libqt5multimedia5,libqt5multimedia5-plugins,gstreamer1.0-plugins-base,gstreamer1.0-tools,gstreamer1.0-plugins-bad,gstreamer1.0-plugins-good,gstreamer1.0-alsa,gstreamer1.0-libav
+Depends:devscan,libts-bin,alsa-utils,qt5-default,libqt5multimedia5,libqt5multimedia5-plugins,gstreamer1.0-plugins-base,gstreamer1.0-tools,gstreamer1.0-plugins-bad,gstreamer1.0-plugins-good,gstreamer1.0-alsa,gstreamer1.0-libav,peripheral,ipppd
 Installed-Size: 512
-Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
+Maintainer: embedfire <embedfire@embedfire.com>
 Priority: optional
 Section: utils
-Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.0.0.1_armhf.deb
-Size: 38355232
-SHA256: 17bbf5f2afad7d4d349342295e587b549584e9e1ab92835473ae4b8412706bf7
-SHA1: a05980378f5f61d46b5cec80e9b5400e4eb22ee0
-MD5sum: e03ab0fc9002bc328de538f22ebf52b1
+Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.0.0.2_armhf.deb
+Size: 38594020
+SHA256: 6f7156cfa4b311b416baaba3eed622e3c48a10f3e38d52375b57e6b14b6c0474
+SHA1: d0ac00c940e1978dbe9937d11458498f12e32f3c
+MD5sum: 3a1bc274f5576b1a773b04c300477123
 Description: soft package
 
 Package: fire-config-v2
@@ -25,6 +25,20 @@ Size: 1583732
 SHA256: b8ebfd56dabd4a2b4635554662d8c6907af3c7630723a70f2ca407e35dfe6e78
 SHA1: 3c19eb32980c27d89e511064914e502a2870e20a
 MD5sum: 4bb8f13a1ea9e6716b532d1008d7415c
+Description: Embedfire Tools
+
+Package: peripheral
+Source:embedfire
+Version:0.1.5
+Architecture: armhf
+Maintainer:Emdebfire
+Priority: optional
+Section: debug
+Filename: pool/main/e/embedfire/peripheral_0.1.5_armhf.deb
+Size: 182380
+SHA256: d029884e84f1e0610d23b7e71beb8c6fed46878f0a2ebb0c942298889b25eab0
+SHA1: d55a586c683cd0753e70dbe834e4ee58da311813
+MD5sum: 036f2fe7fb035d86fb179e9f2fb7531f
 Description: Embedfire Tools
 
 Package: wifi-depent
