@@ -2,7 +2,7 @@ Origin: embedfire
 Label: main
 Suite: stable
 Codename: carp-imx6
-Date: Wed, 01 Dec 2021 02:17:25 UTC
+Date: Wed, 01 Dec 2021 02:29:42 UTC
 Architectures: armhf arm64 amd64
 Components: main
 Description: embedfire repository for debian buster
