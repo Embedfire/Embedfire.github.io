@@ -14,32 +14,32 @@ MD5sum: 72b9c2f03eb0f6c2a62793e9c6e0008c
 Description: soft package
 
 Package: ebf-qtdemo
-Version: 1.3.0.9
+Version: 1.3.1.1
 Architecture: armhf
 Depends:devscan,libts-bin,alsa-utils
 Installed-Size: 512
 Maintainer: [url=mailto:sunwill_chen@hotmail.com]sunwill_chen#hotmail.com
 Priority: optional
 Section: utils
-Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.0.9_armhf.deb
-Size: 69170180
-SHA256: 38e5207fba52c5916ac513695f5d88ec3b60ba0ad7db8f3ded3d0827e08882c9
-SHA1: 25933cdc6fe20ea0e1fd5331e97573d7828e6a94
-MD5sum: 1be1a8fccb491ecce31f4b26d68a5a7d
+Filename: pool/main/e/ebf-qtdemo/ebf-qtdemo_1.3.1.1_armhf.deb
+Size: 61938236
+SHA256: afdc7a692f9668e9b7ed7748391e1364e942c78d79dbcb969d24336cc813f430
+SHA1: 8c44293f452e404e545e9823ba320eaf958b8f06
+MD5sum: b4bf68c45dfac0ba1ac6b929114b7639
 Description: soft package
 
 Package: fire-config-v2
 Source:embedfire
-Version:0.1.5
+Version:0.1.7
 Architecture: armhf
 Maintainer:Emdebfire 
 Priority: optional
 Section: debug
-Filename: pool/main/e/embedfire/fire-config-v2_0.1.5_armhf.deb
-Size: 1583732
-SHA256: b8ebfd56dabd4a2b4635554662d8c6907af3c7630723a70f2ca407e35dfe6e78
-SHA1: 3c19eb32980c27d89e511064914e502a2870e20a
-MD5sum: 4bb8f13a1ea9e6716b532d1008d7415c
+Filename: pool/main/e/embedfire/fire-config-v2_0.1.7_armhf.deb
+Size: 1584372
+SHA256: 8983a0990c1047016e990289d9c5cc56f98ac3c94550c1a5130bebe326f78a41
+SHA1: 648251511ec950d843f995472f273e818f8e01af
+MD5sum: 3e3cbe7e88825de4594cbb8ab34c2bbb
 Description: Embedfire Tools
 
 Package: linux-image-4.19.35-imx6
