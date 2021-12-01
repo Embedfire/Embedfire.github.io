@@ -36,10 +36,10 @@ Maintainer:Emdebfire
 Priority: optional
 Section: debug
 Filename: pool/main/e/embedfire/fire-config-v2_0.1.7_armhf.deb
-Size: 1583988
-SHA256: b881f32dfe0cde2b42a9b1cb905b12890ed2b3175bff48dee37ed4df5797c9e7
-SHA1: 7ebbeef0b3d6f32a00092c403ecd1250d7ce3756
-MD5sum: bdc18f1adfa505b861f4b1037735eced
+Size: 1584372
+SHA256: 8983a0990c1047016e990289d9c5cc56f98ac3c94550c1a5130bebe326f78a41
+SHA1: 648251511ec950d843f995472f273e818f8e01af
+MD5sum: 3e3cbe7e88825de4594cbb8ab34c2bbb
 Description: Embedfire Tools
 
 Package: linux-image-4.19.35-imx6
